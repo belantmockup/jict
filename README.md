@@ -21,9 +21,10 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 * How Relevant is the goal to your organization?
 * What is the Timeframe for achieving this goal?
 
-**Below are our suggested example of the KPI (mockup example and design):  **
+**Below are our suggested example of the KPI (mockup example and design): **
 
 
+#Ini adalah test
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk3Nzc2MzgtN2JkMC00YjYzLWE2NmQtOGRjZGUxYzI5NjMyIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
