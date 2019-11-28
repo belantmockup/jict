@@ -25,7 +25,7 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 Below are our suggested example of the KPI (mockup example and design): 
 
 
-**Loading vs Unloading **
+**Loading vs Unloading**
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYWViNTlmNDEtNTg3YS00ODI4LWI1MWMtZDI0NmIzYzc1ODg5IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
