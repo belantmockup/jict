@@ -22,7 +22,7 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 * What is the Timeframe for achieving this goal?
 
 
-**Below are our suggested example of the KPI (mockup example and design): **
+## Below are our suggested example of the KPI (mockup example and design): 
 
 
 # Loading vs Unloading 
