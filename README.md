@@ -1,9 +1,11 @@
-# jict
+# JICT-Mockup-PT Belant Persada 
 
-For port terminals, measuring KPIs to improve operational efficiencies and productivity is crucial. With vessel sizes on the rise, shipping companies are more demanding than ever.  
+PT (Persero) Pelabuhan Indonesia II (PELINDO II) is a state-owned enterprise, which operates 12 of Indonesia’s largest ports in 10 provinces. This includes Tanjung Priok, the biggest and busiest port in Indonesia. Apart from that PELINDO II has subsidiaries and affiliates such as PT. Jakarta International Container Terminal, Terminal Petikemas Koja, PT. Pelabuhan Tanjung Priok,  PT. Electronic Data Interchange, PT. Rumah Sakit Pelabuhan and PT. Multi Terminal Indonesia. 
 
+Handling 95 million tons of cargo and vessel for more than 57,000 vessels last year. PT. PELINDO II has a tremendous potential to develop its business in future.
 
-The best way to evaluate the relevance of a KPI is to use the SMART criteria. SMART is stands for
+For JICT terminals, measuring KPIs to improve operational efficiencies and productivity is crucial. The best way to evaluate the relevance of a KPI is to use the SMART criteria. SMART are stands for
+
 * Specific 
 * Measurable 
 * Attainable
@@ -19,7 +21,7 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 * How Relevant is the goal to your organization?
 * What is the Timeframe for achieving this goal?
 
-Below are example of the KPI in the shipping industries:
+**Below are our suggested example of the KPI (mockup example and design): **
 
 
 
