@@ -24,17 +24,10 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 **Below are our suggested example of the KPI (mockup example and design): **
 
 
-# Ini adalah test
+# Loading vs Unloading 
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk3Nzc2MzgtN2JkMC00YjYzLWE2NmQtOGRjZGUxYzI5NjMyIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOGIyMGRjZjMtMmIwZS00Y2EzLTg4YjAtM2VlYTcyMmQ2NWRjIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk3Nzc2MzgtN2JkMC00YjYzLWE2NmQtOGRjZGUxYzI5NjMyIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk3Nzc2MzgtN2JkMC00YjYzLWE2NmQtOGRjZGUxYzI5NjMyIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+# Full vs Empty
 
 
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk3Nzc2MzgtN2JkMC00YjYzLWE2NmQtOGRjZGUxYzI5NjMyIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiODk3Nzc2MzgtN2JkMC00YjYzLWE2NmQtOGRjZGUxYzI5NjMyIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
