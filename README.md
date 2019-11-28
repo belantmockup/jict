@@ -39,3 +39,11 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 # Predictive Model
 
 
+
+Preferences:
+* [Github](https://github.com/)
+* [Power BI](https://powerbi.microsoft.com/en-us/)
+* [Datapine](https://www.datapine.com/)
+* [Shipping KPI](https://www.shipping-kpi.org/)
+* [Medium](https://medium.com/@octopi_tos/6-key-primary-indicators-kpis-that-port-terminals-should-closely-track-433cb25e1ac6)
+
