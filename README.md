@@ -43,6 +43,7 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 
 * [Github](https://github.com/)
 * [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
+* [JICT](https://www.jict.co.id/)
 * [Datapine](https://www.datapine.com/)
 * [Medium](https://medium.com/@octopi_tos/6-key-primary-indicators-kpis-that-port-terminals-should-closely-track-433cb25e1ac6)
 * [Shipping KPI](shipping-kpi.org)
