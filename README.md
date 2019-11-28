@@ -4,7 +4,7 @@ PT (Persero) Pelabuhan Indonesia II (PELINDO II) is a state-owned enterprise, wh
 
 Handling 95 million tons of cargo and vessel for more than 57,000 vessels last year. PT. PELINDO II has a tremendous potential to develop its business in future.
 
-For JICT terminals, measuring KPIs to improve operational efficiencies and productivity is crucial. The best way to evaluate the relevance of a KPI is to use the SMART criteria. SMART are stands for
+For JICT, measuring KPIs (Key Performances Indicators) or Dashboards to improve operational efficiencies and productivity is crucial. The best way to evaluate the relevance of a KPI is to use the SMART criteria. SMART are stands for,
 
 * Specific 
 * Measurable 
@@ -21,7 +21,7 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 * How Relevant is the goal to your organization?
 * What is the Timeframe for achieving this goal?
 
-**Below are our suggested example of the KPI (mockup example and design): **
+**Below are our suggested example of the KPI (mockup example and design):  **
 
 
 
