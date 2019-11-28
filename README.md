@@ -21,6 +21,7 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 * How Relevant is the goal to your organization?
 * What is the Timeframe for achieving this goal?
 
+
 **Below are our suggested example of the KPI (mockup example and design): **
 
 
