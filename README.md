@@ -22,24 +22,24 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 * What is the Timeframe for achieving this goal?
 
 
-## Below are our suggested example of the KPI (mockup example and design): 
+Below are our suggested example of the KPI (mockup example and design): 
 
 
-# Loading vs Unloading 
+**Loading vs Unloading **
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYWViNTlmNDEtNTg3YS00ODI4LWI1MWMtZDI0NmIzYzc1ODg5IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-# Test 2
+**Example 2 **
 
+**Example 3 **
 
-# Test 3
-
+**Example 4 **
 
 # Predictive Model
 
 
-Preferences:
+**Preferences: **
 
 * [Github](https://github.com/)
 * [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
