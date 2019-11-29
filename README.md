@@ -25,13 +25,11 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 **Below are our suggested example of the KPI (mockup example and design):**
 
 * Data source: PT Belant Persada
-
 * Software: 
     * Github, 
     * Microsoft Power BI
     * R Programming
     * RStudio (R Programming IDE)
-    
 * Methods:
     * Key Performance Indicators
     * Time Series Arima modelling
