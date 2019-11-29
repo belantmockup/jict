@@ -34,7 +34,10 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZGE5OThlNjYtNTQ2Mi00MDg0LTg4ZDItMjU4MzQwMTE4ZmUzIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
-**Example 3**
+**Type of Trade: Domestic vs Overseas**
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOGI2NDUyMTItNmYwOS00ZTJmLThiZGQtMDc5MmZlMWZlNjhjIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 **Example 4**
 
