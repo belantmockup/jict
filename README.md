@@ -50,7 +50,14 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOGI2NDUyMTItNmYwOS00ZTJmLThiZGQtMDc5MmZlMWZlNjhjIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-**Example 4**
+**Terminal**
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZGUxMGQzM2ItMmRiMi00NDViLWJiM2EtNzIxYWQ3ZjdiODRkIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
+**Example**
+
 
 **Predictive Model**
 
