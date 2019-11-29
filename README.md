@@ -61,7 +61,7 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMzlkOGYzNGMtNzg1ZC00YTg0LWJjODctYzM3YWViNTI4MjJhIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-**Hypothesis:**
+**Hypothesis: soon**
 
 The relation between Indonesia's macro economical parameter such as:
 
@@ -74,7 +74,7 @@ The relation between Indonesia's macro economical parameter such as:
 
 
 
-**Predictive Model:**
+**Predictive Model: soon**
 
 What's the future like? Let's implemented some of prediction model with technical analysis
 
