@@ -56,7 +56,9 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 
 
 
-**Example**
+**Container Status: Full vs Empty**
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMzlkOGYzNGMtNzg1ZC00YTg0LWJjODctYzM3YWViNTI4MjJhIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 **Predictive Model**
