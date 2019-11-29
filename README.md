@@ -1,5 +1,7 @@
 # JICT-Mockup-PT Belant Persada 
 
+[](img/belant.jpg)
+
 PT (Persero) Pelabuhan Indonesia II (PELINDO II) is a state-owned enterprise, which operates 12 of Indonesia’s largest ports in 10 provinces. This includes Tanjung Priok, the biggest and busiest port in Indonesia. Apart from that PELINDO II has subsidiaries and affiliates such as PT. Jakarta International Container Terminal, Terminal Petikemas Koja, PT. Pelabuhan Tanjung Priok,  PT. Electronic Data Interchange, PT. Rumah Sakit Pelabuhan and PT. Multi Terminal Indonesia. 
 
 Handling 95 million tons of cargo and vessel for more than 57,000 vessels last year. PT. PELINDO II has a tremendous potential to develop its business in future.
