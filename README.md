@@ -93,9 +93,13 @@ The relation between Indonesia's macro economical parameter such as:
 
 
 
-**Predictive Model: soon**
+# KPI: Decision making+Predictive
+
+**Exponential Smoothing Forecasting-Quantity of Container**
 
 What's the future like? Let's implemented some of prediction model with technical analysis
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYzJlMWRkZDEtMjcwMC00MzM0LTk5MTAtZmQzZGJmYTJjZGY0IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
