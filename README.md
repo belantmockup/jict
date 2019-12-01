@@ -68,12 +68,16 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
 
 
 
-# KPI: Overview+Difference
+# KPI: Overview+Different
 
 **Loading & Discharge**
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjkzZjJlZDUtNzhkNi00YTQyLWI1NGUtZjg5ODQwNmZlMjM4IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
+
+**Container Size/Dimension**
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOGMyZTc2MjgtZDM2Mi00NzVlLWFkMTAtMmI4YTMzNWJkZjdmIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 **Hypothesis: soon**
