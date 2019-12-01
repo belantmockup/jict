@@ -38,7 +38,7 @@ However, selecting high-quality KPIs isn’t easy, so when the time comes, use t
     * Visualizing Theory
 
 
-#KPI: Overview
+# KPI: Overview+Comparison
 
 
 **Loading vs Discharge**
