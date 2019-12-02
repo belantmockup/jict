@@ -127,8 +127,27 @@ The forecasting model is chaos!
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYzJlMWRkZDEtMjcwMC00MzM0LTk5MTAtZmQzZGJmYTJjZGY0IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
+**Exponential Smoothing Forecasting-Fake Revenue Data:**
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTQ0YjdjMDYtYzJhMC00ZGJhLTg1ZTctMTVmNDhlZjU5YWQwIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
+To make a good model of forecasting isn't easy way. There are a lot of consideration and technical analysis. Below are some of the good model parameter. 
 
 
+* ME: Mean Error
+* RMSE: root mean squared error (AR modelle)
+* MAE: mean absolute error (AR modelle)
+* MPE: mean percentage error
+* MAPE: mean absolute percentage error (AR modelle)
+* ACF1: first-order autocorrelation coefficient (ACF1)
+
+
+And the steps by steps are:
+
+1. Create and visualize the time series data
+2. Stationarization of time series data
+3. Modeling: White Noise, AR, MA, ARMA, ARIMA, SARIMA, ARCH, GARCH, Machine learning, etc
+4. Forecasting
 
 
 **Preferences:**
