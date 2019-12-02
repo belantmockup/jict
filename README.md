@@ -99,7 +99,7 @@ The relation between Indonesia's macro economical parameter such as:
 * Power BI Robot: https://www.powerbitiles.com/?app=PBIRobots
 
 
-# # KPI: Warning+Correlation
+# KPI: Warning+Correlation
 
 
 
@@ -107,23 +107,23 @@ The relation between Indonesia's macro economical parameter such as:
 
 What's the future like? Let's implemented some of prediction model with technical analysis
 
-
+Dataset:
 
 * ID Container FE: E
 * Container Size: 20
 * ID_Terminal: 2 
 
 
-**ARIMA Forecasting-Quantity of Container: **
+**ARIMA Forecasting-Quantity of Container:** -> see the demo arima_forecast_quantity
 
+
+
+The forecasting model is chaos!
 
 
 **Exponential Smoothing Forecasting-Quantity of Container:**
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYzJlMWRkZDEtMjcwMC00MzM0LTk5MTAtZmQzZGJmYTJjZGY0IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
-**ARIMA Forecasting-Quantity of Container:**
-
 
 
 
