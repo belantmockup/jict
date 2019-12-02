@@ -91,6 +91,12 @@ The relation between Indonesia's macro economical parameter such as:
 * Unemployment
 * etc
 
+# KPI: Warning+Live Streaming
+
+* Power BI Robot: https://www.powerbitiles.com/?app=PBIRobots
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiN2U5MDU3MGMtN2YzZC00YjZmLTk0ODEtMzcyZjg2OTUxYjVjIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 
 # KPI: Decision making+Predictive
