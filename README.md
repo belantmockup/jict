@@ -103,6 +103,27 @@ The relation between Indonesia's macro economical parameter such as:
 
 
 
+
+
+# KPI: Decision making+Distribution
+
+Data source:
+Microsoft Program for Data Science, Obvience
+
+The dataset
+
+Revenue:
+* Revenue by customer age
+* Revenue by state
+* Revenue growth
+* Revenue by country
+* Revenue by category
+* Revenue KPI (Key Performances Indicator)
+
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 # KPI: Decision making+Predictive
 
 What's the future like? Let's implemented some of prediction model with technical analysis
