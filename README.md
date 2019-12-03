@@ -173,7 +173,7 @@ The forecasting model is chaos!
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTQ0YjdjMDYtYzJhMC00ZGJhLTg1ZTctMTVmNDhlZjU5YWQwIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-**Power BI Visual Tools Add-on for Forecasting:**
+**Power BI Visual Tools Add-on for Forecasting:**-> see the demo!
 
 
 
