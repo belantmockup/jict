@@ -101,24 +101,9 @@ The relation between Indonesia's macro economical parameter such as:
 
 # KPI: Warning+Correlation
 
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNmNiNTZlMjAtYTU0Mi00OTA4LTk5YTMtNWRiNGQ2MThlMzU5IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-
-
-# KPI: Decision making+Outliers
-
-**Outliers methods:**
-
-* 1. Zscore is a standard deviation approach. For more details see: https://en.wikipedia.org/wiki/Standard_score
-* 2. Tukey’s method, which uses interquartile (IQR) range approach. For more details see: http://datapigtechnologies.com/blog/index.php/highlighting-outliers-in-your-data-with-the-tukey-method/
-* 3. LOF (Local Outlier Factor) method, which computes the local density deviation of a given data point with respect to its neighbors. It considers samples that have a substantially lower density than their neighbors as outliers. For more details see: https://en.wikipedia.org/wiki/Local_outlier_factor
-* 4. Cook's distance, which shows the influence of each observation on the fitted response values. An observation with Cook's distance larger than three times the mean Cook's distance might be an outlier. For more details see: https://en.wikipedia.org/wiki/Cook%27s_distance
-* 5. Finally, the manual method allows you to define your own upper and lower thresholds for the original data.
-
-
-**Power BI Visual Tools Add-On for Outliers:** 
-
-**Power BI Visual Tools Add-on Clustering Outliers:** 
 
 
 
