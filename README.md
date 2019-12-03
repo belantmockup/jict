@@ -107,7 +107,7 @@ The relation between Indonesia's macro economical parameter such as:
 
 # KPI: Decision making+Outliers
 
-Outliers methods:
+**Outliers methods:**
 
 * 1. Zscore is a standard deviation approach. For more details see: https://en.wikipedia.org/wiki/Standard_score
 * 2. Tukey’s method, which uses interquartile (IQR) range approach. For more details see: http://datapigtechnologies.com/blog/index.php/highlighting-outliers-in-your-data-with-the-tukey-method/
@@ -116,11 +116,37 @@ Outliers methods:
 * 5. Finally, the manual method allows you to define your own upper and lower thresholds for the original data.
 
 
+**Power BI Visual Tools Add-On for Outliers:** 
+
+**Power BI Visual Tools Add-on Clustering Outliers:** 
 
 
-# KPI: Decision making+Predictive
 
-What's the future like? Let's implemented some of prediction model with technical analysis
+
+
+
+# KPI: Decision making+Forecasting
+
+What's the future like? Let's implemented some of prediction model with technical analysis.
+
+And the steps by steps are:
+
+1. Create and visualize the time series data
+2. Stationarization of time series data
+3. Modeling: White Noise, AR, MA, ARMA, ARIMA, SARIMA, ARCH, GARCH, Machine learning, etc
+4. Forecasting
+
+To make a good model of forecasting isn't easy way. There are a lot of consideration and technical analysis. Below are some of the good model parameter. 
+
+
+* ME: Mean Error
+* RMSE: root mean squared error (AR modelle)
+* MAE: mean absolute error (AR modelle)
+* MPE: mean percentage error
+* MAPE: mean absolute percentage error (AR modelle)
+* ACF1: first-order autocorrelation coefficient (ACF1)
+
+
 
 Dataset:
 
@@ -146,23 +172,11 @@ The forecasting model is chaos!
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTQ0YjdjMDYtYzJhMC00ZGJhLTg1ZTctMTVmNDhlZjU5YWQwIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
-To make a good model of forecasting isn't easy way. There are a lot of consideration and technical analysis. Below are some of the good model parameter. 
+
+**Power BI Visual Tools Add-on for Forecasting:**
 
 
-* ME: Mean Error
-* RMSE: root mean squared error (AR modelle)
-* MAE: mean absolute error (AR modelle)
-* MPE: mean percentage error
-* MAPE: mean absolute percentage error (AR modelle)
-* ACF1: first-order autocorrelation coefficient (ACF1)
 
-
-And the steps by steps are:
-
-1. Create and visualize the time series data
-2. Stationarization of time series data
-3. Modeling: White Noise, AR, MA, ARMA, ARIMA, SARIMA, ARCH, GARCH, Machine learning, etc
-4. Forecasting
 
 
 **Preferences:**
