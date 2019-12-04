@@ -140,7 +140,7 @@ Dataset:
 * ID_Terminal: 2 
 
 
-**ARIMA Forecasting-Quantity of Container:** -> see the demo arima_forecast_quantity
+**ARIMA Forecasting-Quantity of Container:** -> see the demo arima_forecast_quantity and arima_forecast_money
 
 
 **Exponential Smoothing Forecasting-Quantity of Container:**
@@ -153,7 +153,7 @@ Dataset:
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTQ0YjdjMDYtYzJhMC00ZGJhLTg1ZTctMTVmNDhlZjU5YWQwIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-**Power BI Visual Tools Add-on for Forecasting:**-> see the demo!
+
 
 
 **Preferences:**
